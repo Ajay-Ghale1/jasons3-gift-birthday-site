@@ -1,0 +1,87 @@
+#img-5 {
+    height: 200px;
+}
+body {
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+    color: #FFFFFF;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
+}
+#brody {
+    border: 10px solid #EFB0C9;
+    width: 30%;
+    border-radius: 50%; 
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+h2, h1, h4 {
+    text-shadow: 0px 0px 2px black;
+}
+#date {
+    background: #EFB0C9;
+    margin: 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#age {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img-1 {
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("/BirthdaySite/Images/Gift.jpg");
+    background-size: cover;
+}
+.img-1:hover {
+    background-image: url("/BirthdaySite/Images/bethesda.webp");
+    background-size: cover;
+}
+.gif-section {
+    margin-top: 50px;
+}
+.title {
+    margin-bottom: 10px;
+}
+.subtitles {
+    margin-top: 0;
+}
+#img-2:hover {
+    background-image: url("/BirthdaySite/Images/hacked.webp");
+    background-size: cover;
+}
+#img-3:hover {
+    background-image: url("/BirthdaySite/Images/Nuke.webp");
+    background-size: cover;
+}
+#img-4:hover {
+    background-image: url;(/Images/doom.webp");
+    background-size: cover;
+}
+
+#img-5:hover {
+    background-image: url("/BirthdaySite/Images/now.gif");
+}
+.text-2 {
+    text-decoration: underline;
+    color: white;
+    margin: 40px auto;
+    font-size: 25px;
+}
+.text-1 {
+    font-style: italic;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin: 40px auto;
+    font-size: 25px;
+}
