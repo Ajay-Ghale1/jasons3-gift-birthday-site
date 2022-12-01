@@ -40,11 +40,11 @@ h2, h1, h4 {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("/BirthdaySite/Images/Gift.jpg");
+    background-image: url("/Images/Gift.jpg");
     background-size: cover;
 }
 .img-1:hover {
-    background-image: url("/BirthdaySite/Images/bethesda.webp");
+    background-image: url("/Images/bethesda.webp");
     background-size: cover;
 }
 .gif-section {
@@ -57,20 +57,20 @@ h2, h1, h4 {
     margin-top: 0;
 }
 #img-2:hover {
-    background-image: url("/BirthdaySite/Images/hacked.webp");
+    background-image: url("/Images/hacked.webp");
     background-size: cover;
 }
 #img-3:hover {
-    background-image: url("/BirthdaySite/Images/Nuke.webp");
+    background-image: url("/Images/Nuke.webp");
     background-size: cover;
 }
 #img-4:hover {
-    background-image: url;(/Images/doom.webp");
+    background-image: url;("/Images/doom.webp");
     background-size: cover;
 }
 
 #img-5:hover {
-    background-image: url("/BirthdaySite/Images/now.gif");
+    background-image: url("/Images/now.gif");
 }
 .text-2 {
     text-decoration: underline;
